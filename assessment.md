@@ -10,7 +10,7 @@ The letter grade based on accumulated points. Grades for the different credit op
 
 ### POINTS / GRADES
 
-![Points and Letter Grades](.gitbook/assets/image%20%282%29.png)
+![Points and Letter Grades](.gitbook/assets/image.png)
 
 | Points | Activity | Description | Points |
 | :--- | :--- | :--- | :--- |
