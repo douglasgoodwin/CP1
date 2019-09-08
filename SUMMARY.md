@@ -20,4 +20,5 @@
 * [ANALOG PHOTOGRAPHY](modules/analog-photography.md)
 * [AUTOMATIC IMAGE-MAKING](modules/automatic-image-making.md)
 * [DIGITAL PHOTOGRAPHY](modules/digital-photography.md)
+* [Pinhole images](modules/pinhole-images.md)
 
