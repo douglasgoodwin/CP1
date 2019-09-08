@@ -10,12 +10,12 @@ The letter grade based on accumulated points. Grades for the different credit op
 
 ### POINTS / GRADES
 
-![Points and Letter Grades](.gitbook/assets/image.png)
-
-| Points | Activity | Description | Points |
+| Count | Activity | Description | Points |
 | :--- | :--- | :--- | :--- |
 | 8 | Labs | Submit documentation from classroom activities in electronic Google Colab Notebooks | 64 |
 | 12 | Weekly “Lightning talk” presentations | Jupyter Lab in Google Colab Notebooks | 20 |
 | 4 | Debates | Restage famous historical debates about vision, light, reality, and color. | 16 |
-|  | TOTAL |  |  |
+|  | **TOTAL** |  | **100** |
+
+![Points and Letter Grades](.gitbook/assets/image.png)
 
