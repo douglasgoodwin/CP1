@@ -10,13 +10,14 @@
 ## MODULES
 
 * [INTRODUCTIONS](modules/untitled.md)
-* [LIGHT & ILLUMINATION](modules/light-and-illumination.md)
-* [VISUAL ECOLOGY](modules/visual-ecology.md)
+* [LIGHT & ILLUMINATION](modules/light-and-illumination/README.md)
+  * [Challenge Image 1: Daguerre](modules/light-and-illumination/challenge-image.md)
+* [VISUAL ECOLOGY](modules/visual-ecology/README.md)
+  * [Challenge Image \#2: Lartigue](modules/visual-ecology/challenge-image-2-lartigue.md)
 * [PERCEPTION](modules/perception.md)
 * [HISTORY OF IMAGES & PROPAGANDA](modules/history-of-images-and-propaganda.md)
 * [LENSES & CAMERAS](modules/lenses-and-cameras.md)
 * [ANALOG PHOTOGRAPHY](modules/analog-photography.md)
 * [AUTOMATIC IMAGE-MAKING](modules/automatic-image-making.md)
 * [DIGITAL PHOTOGRAPHY](modules/digital-photography.md)
-* [Challenge Image](modules/challenge-image.md)
 
