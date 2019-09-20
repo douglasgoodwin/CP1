@@ -14,6 +14,7 @@
   * [Challenge Image 1: Daguerre](modules/light-and-illumination/challenge-image.md)
 * [VISUAL ECOLOGY](modules/visual-ecology/README.md)
   * [Challenge Image \#2: Lartigue](modules/visual-ecology/challenge-image-2-lartigue.md)
+  * [Cyanotype Lab](modules/visual-ecology/cyanotype-lab.md)
 * [PERCEPTION](modules/perception.md)
 * [HISTORY OF IMAGES & PROPAGANDA](modules/history-of-images-and-propaganda.md)
 * [LENSES & CAMERAS](modules/lenses-and-cameras.md)
@@ -21,5 +22,4 @@
 * [AUTOMATIC IMAGE-MAKING](modules/automatic-image-making.md)
 * [DIGITAL PHOTOGRAPHY](modules/digital-photography.md)
 * [Pinhole images](modules/pinhole-images.md)
-* [Cyanotype Lab](modules/cyanotype-lab.md)
 
