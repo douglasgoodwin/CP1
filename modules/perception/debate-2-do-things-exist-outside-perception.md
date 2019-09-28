@@ -12,17 +12,17 @@ Let's re-stage a infamous debate between \[George Berkeley\] and \[Samuel Johnso
 
 3. Ordinary objects are ideas.
 
-It is agreed on all hands, that the qualities or modes of things do never really exist each of them apart by it self, and separated from all others, \*but are mixed\*, as it were, and blended together, several in the same object. But we are told, the mind being able to consider each quality singly, or abstracted from those other qualities with which it is united, does by that means frame to it self abstract ideas.
+_It is agreed on all hands, that the qualities or modes of things do never really exist each of them apart by it self, and separated from all others, \*but are mixed\*, as it were, and blended together, several in the same object. But we are told, the mind being able to consider each quality singly, or abstracted from those other qualities with which it is united, does by that means frame to it self abstract ideas._
 
 **Examples for color and motion:**
 
-Not that it is possible for colour or motion to exist without extension: but only that the mind can frame to it self by abstraction the idea of colour exclusive of extension, and of motion exclusive of both colour and extension.
+_Not that it is possible for colour or motion to exist without extension: but only that the mind can frame to it self by abstraction the idea of colour exclusive of extension, and of motion exclusive of both colour and extension._
 
 The likeness principle. Berkeley argues that this supposed resemblance is nonsensical; an idea can only be like another idea:
 
-But say you, though the ideas themselves do not exist without the mind, yet there may be things like them whereof they are copies or resemblances, which things exist without the mind, in an unthinking substance. I answer, an idea can be like nothing but an idea; a colour or figure can be like nothing but another colour or figure. \(PHK 8\)
+_But say you, though the ideas themselves do not exist without the mind, yet there may be things like them whereof they are copies or resemblances, which things exist without the mind, in an unthinking substance. I answer, an idea can be like nothing but an idea; a colour or figure can be like nothing but another colour or figure. \(PHK 8\)_
 
-But say you, though the ideas themselves do not exist without the mind, yet there may be things like them whereof they are copies or resemblances, which things exist without the mind, in an unthinking substance. I answer, an idea can be like nothing but an idea; a colour or figure can be like nothing but another colour or figure. \(PHK 8\)
+_But say you, though the ideas themselves do not exist without the mind, yet there may be things like them whereof they are copies or resemblances, which things exist without the mind, in an unthinking substance. I answer, an idea can be like nothing but an idea; a colour or figure can be like nothing but another colour or figure. \(PHK 8\)_
 
 Berkeley argues that this supposed resemblance is nonsensical; an idea can only be like another idea.
 
@@ -35,11 +35,11 @@ Berkeley argues that this supposed resemblance is nonsensical; an idea can only 
 
 Johnson's staged an effective and memorable rhetorical tactic counter argument inspired a term for a specific type of logical fallacy called argumentum ad lapidem aka argument to the stone. 
 
-After we came out of the church, we stood talking for some time together of Bishop Berkeley's ingenious sophistry to prove the non-existence of matter, and that every thing in the universe is merely ideal. I observed, that though we are satisfied his doctrine is not true, it is impossible to refute it. I never shall forget the alacrity with which Johnson answered, striking his foot with mighty force against a large stone, till he rebounded from it, 'I refute it THUS.'
+_After we came out of the church, we stood talking for some time together of Bishop Berkeley's ingenious sophistry to prove the non-existence of matter, and that every thing in the universe is merely ideal. I observed, that though we are satisfied his doctrine is not true, it is impossible to refute it. I never shall forget the alacrity with which Johnson answered, striking his foot with mighty force against a large stone, till he rebounded from it, 'I refute it THUS.'_
 
-BOSWELL'S LIFE OF JOHNSON, James Boswell
+_BOSWELL'S LIFE OF JOHNSON, James Boswell_
 
-Instead maybe the clue to Johnson's meaning is in the nature of the refutation. Although a man of words he choose not to answer with more "ingenious sophistry" but instead \*\*demonstrated by action that man is a participant in reality and not primarily an observer\*\*. Such a philosophical stance has nowadays been labelled pragmatism, and was developed by the American's Charles Peirce \(1839-1914\) and William James \(1842-1910\) with Richard Rorty \(b 1931\) being a more recent supporter. Pragmatists believe that reality is discovered by active participation in the world. This means that the immaterialist vs materialist dialectic is bypassed by the claim that both subject and object are constituted from experience, and there is a bottom up approach to discovering reality compared with the top down "pure reason" approach of analytic metaphysics.
+_Instead maybe the clue to Johnson's meaning is in the nature of the refutation. Although a man of words he choose not to answer with more "ingenious sophistry" **but instead demonstrated by action that man is a participant in reality and not primarily an observer**. Such a philosophical stance has nowadays been labelled pragmatism, and was developed by the American's Charles Peirce \(1839-1914\) and William James \(1842-1910\) with Richard Rorty \(b 1931\) being a more recent supporter. Pragmatists believe that reality is discovered by active participation in the world. This means that the immaterialist vs materialist dialectic is bypassed by the claim that both subject and object are constituted from experience, and there is a bottom up approach to discovering reality compared with the top down "pure reason" approach of analytic metaphysics._
 
 Can you undo perceptual illusion by distinguishing between material objects and the ideas by means of which we perceive them?
 
