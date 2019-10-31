@@ -10,6 +10,7 @@
 ## MODULES
 
 * [INTRODUCTIONS](modules/untitled.md)
+* [DEBATES](modules/host-a-debate.md)
 * [LIGHT & ILLUMINATION](modules/light-and-illumination/README.md)
   * [Challenge Image 1: Daguerre](modules/light-and-illumination/challenge-image.md)
 * [VISUAL ECOLOGY](modules/visual-ecology/README.md)
