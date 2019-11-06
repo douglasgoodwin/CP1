@@ -14,7 +14,7 @@ You may find these web pages helpful in addition to this week's reading:
 * [https://www.dailymail.co.uk/sciencetech/article-4088076/The-anti-surveillance-clothing-hides-people-security-cameras-using-ghostly-patterns.html](https://www.dailymail.co.uk/sciencetech/article-4088076/The-anti-surveillance-clothing-hides-people-security-cameras-using-ghostly-patterns.html)
 * [https://arxiv.org/pdf/1708.09317.pdf](https://arxiv.org/pdf/1708.09317.pdf)
 
-#### Style Tips for Reclaiming Privacy
+#### Style Tips for Reclaiming Privacy \(from CV Dazzle\)
 
 **Makeup** Avoid enhancers: They amplify key facial features. This makes your face easier to detect. Instead apply makeup that contrasts with your skin tone in unusual tones and directions: light colors on dark skin, dark colors on light skin.
 
@@ -26,4 +26,8 @@ You may find these web pages helpful in addition to this week's reading:
 
 **Asymmetry** Facial-recognition algorithms expect symmetry between the left and right sides of the face. By developing an asymmetrical look, you may decrease your probability of being detected.  
 
+
+### From the other side: Disguised Face Identification \(DFI\) with Facial KeyPoints using Spatial Fusion Convolutional Network
+
+_Disguised face identification \(DFI\) is an extremely challenging problem due to the numerous variations that can be introduced using different disguises. This paper introduces a deep learning framework to first detect 14 facial key-points which are then utilized to perform disguised face identification. Since the training of deep learning architectures relies on large annotated datasets, two annotated facial key-points datasets are introduced. The effectiveness of the facial keypoint detection framework is presented for each keypoint. The superiority of the key-point detection framework is also demonstrated by a comparison with other deep networks. The effectiveness of classification performance is also demonstrated by comparison with the state-of-the-art face disguise classification methods._
 
