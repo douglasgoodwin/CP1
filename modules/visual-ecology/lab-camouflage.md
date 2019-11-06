@@ -2,7 +2,7 @@
 
 Get into groups of 2-4. Each group will need a camera that can identify faces and put boxes around them. Your job is to camouflage the face from the camera.
 
-![OpenCV face ID and tracking](.gitbook/assets/opencv_face_reco_animation.gif)
+![OpenCV face ID and tracking](../../.gitbook/assets/opencv_face_reco_animation.gif)
 
 You may want to try different strategies: blending in with the background, looking like another kind of animal, inversion, lenses, dazzle, etc. Try different approaches. The only rule is that you need to be properly lit.
 
