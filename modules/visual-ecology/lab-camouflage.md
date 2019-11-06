@@ -37,7 +37,11 @@ _Disguised face identification \(DFI\) is an extremely challenging problem due t
 
 [@Amanda M.](https://cphoto1.slack.com/team/UN8EKF8JJ) [@NaNa Mathis](https://cphoto1.slack.com/team/UNJ9TACQ4) Our approach began with masking her eyes and then masking her nose, since these are major facial features software uses to detect faces. From there, we added pipe cleaners as a distraction.  We were able to camouflage her face using your camera and confuse snapchat.
 
-![Amanda after](../../.gitbook/assets/amanda-undetected.JPG)
+![Kristen, after](../../.gitbook/assets/kristen-after%20%281%29.png)
 
-![Amanda before](../../.gitbook/assets/diana_before.jpg)
+
+
+![Kristen before](../../.gitbook/assets/kristen-before.png)
+
+
 
