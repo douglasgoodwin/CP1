@@ -31,3 +31,13 @@ You may find these web pages helpful in addition to this week's reading:
 
 _Disguised face identification \(DFI\) is an extremely challenging problem due to the numerous variations that can be introduced using different disguises. This paper introduces a deep learning framework to first detect 14 facial key-points which are then utilized to perform disguised face identification. Since the training of deep learning architectures relies on large annotated datasets, two annotated facial key-points datasets are introduced. The effectiveness of the facial keypoint detection framework is presented for each keypoint. The superiority of the key-point detection framework is also demonstrated by a comparison with other deep networks. The effectiveness of classification performance is also demonstrated by comparison with the state-of-the-art face disguise classification methods._
 
+![Ishaaq, detected!](../../.gitbook/assets/ishaaq-detected.JPG)
+
+![Ishaaq, undetected](../../.gitbook/assets/ishaaq-undetected.JPG)
+
+[@Amanda M.](https://cphoto1.slack.com/team/UN8EKF8JJ) [@NaNa Mathis](https://cphoto1.slack.com/team/UNJ9TACQ4) Our approach began with masking her eyes and then masking her nose, since these are major facial features software uses to detect faces. From there, we added pipe cleaners as a distraction.  We were able to camouflage her face using your camera and confuse snapchat.
+
+![Amanda after](../../.gitbook/assets/amanda-undetected.JPG)
+
+![Amanda before](../../.gitbook/assets/diana_before.jpg)
+
