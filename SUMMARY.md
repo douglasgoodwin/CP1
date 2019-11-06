@@ -24,4 +24,5 @@
 * [AUTOMATIC IMAGE-MAKING](modules/automatic-image-making.md)
 * [DIGITAL PHOTOGRAPHY](modules/digital-photography.md)
 * [Pinhole images](modules/pinhole-images.md)
+* [LAB: Camouflage](lab-camouflage.md)
 
